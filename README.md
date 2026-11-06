@@ -10,14 +10,14 @@
 
 <br>
 
-<a href="https://github.com/tejamurthycng-arch">
+<a href="https://github.com/tejamurthy-m">
   <img src="https://img.shields.io/badge/Open%20to-Work%20%26%20Internships-a78bfa?style=for-the-badge&logo=github&logoColor=white" alt="Open to work and internships">
 </a>
 
 <br><br>
 
 <img src="https://komarev.com/ghpvc/?username=tejamurthy-m&label=Profile%20Views&color=a78bfa&style=for-the-badge" alt="Profile views">
-<a href="https://github.com/tejamurthycng-arch?tab=followers">
+<a href="https://github.com/tejamurthy-m?tab=followers">
   <img src="https://img.shields.io/github/followers/tejamurthy-m?label=Followers&style=for-the-badge&color=a78bfa&logo=github" alt="GitHub followers">
 </a>
 
@@ -100,12 +100,12 @@ A website project created for **OSCode**, focused on building a clean and engagi
 | Focus | Website Development • UI Implementation |
 
 <p>
-  <a href="https://github.com/tejamurthycng-arch/OSCode_Website">
+  <a href="https://github.com/tejamurthy-m/OSCode_Website">
      <p>OSCode Website</p>
   </a>
 </p>
 
-**[💻 Code](https://github.com/tejamurthycng-arch/OSCode_Website)**
+**[💻 Code](https://github.com/tejamurthy-m/OSCode_Website)**
 
 ---
 
@@ -197,7 +197,7 @@ A website project created for **OSCode**, focused on building a clean and engagi
 
 <div align="center">
 
-<a href="https://github.com/tejamurthycng-arch">
+<a href="https://github.com/tejamurthy-m">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,100:a78bfa&height=120&section=footer&animation=twinkling" alt="Footer banner">
 </a>
 
