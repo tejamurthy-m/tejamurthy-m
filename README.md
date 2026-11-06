@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="https://github.com/tejamurthycng-arch">
+<a href="https://github.com/tejamurthy-m">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,100:a78bfa&height=200&section=header&text=Tejamurthy&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=35" alt="Tejamurthy header">
 </a>
 
