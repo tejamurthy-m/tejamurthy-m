@@ -16,9 +16,9 @@
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=tejamurthycng-arch&label=Profile%20Views&color=a78bfa&style=for-the-badge" alt="Profile views">
+<img src="https://komarev.com/ghpvc/?username=tejamurthy-m&label=Profile%20Views&color=a78bfa&style=for-the-badge" alt="Profile views">
 <a href="https://github.com/tejamurthycng-arch?tab=followers">
-  <img src="https://img.shields.io/github/followers/tejamurthycng-arch?label=Followers&style=for-the-badge&color=a78bfa&logo=github" alt="GitHub followers">
+  <img src="https://img.shields.io/github/followers/tejamurthy-m?label=Followers&style=for-the-badge&color=a78bfa&logo=github" alt="GitHub followers">
 </a>
 
 </div>
